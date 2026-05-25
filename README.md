@@ -75,6 +75,18 @@ This dataset is intended for academic and research purposes only.
 
 ---
 
+# Authors
+
+This dataset was created and curated by:
+
+- **Iftehaz Md. Iftekhar**
+- **Meherun Nesa**
+- **Kahakashan Ashraf**
+  
+
+---
+
+
 # Citation
 
 If you use this dataset in your research, please cite the corresponding paper.
