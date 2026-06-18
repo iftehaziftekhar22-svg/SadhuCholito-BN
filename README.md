@@ -43,6 +43,7 @@ This split was applied to both the Bangla and English datasets.
 |---|---|
 | text | Bengali/English text data |
 | type | Label (Sadhu or Cholito) |
+| type | Book |
 
 ---
 
